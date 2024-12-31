@@ -1,0 +1,12 @@
+Spectator App V2 - Created + Programmed by Mushroom.
+
+(Unreleased TOTF2 Spectator application.)
+
+All credits go to OnePunchMan + Alexx for letting this happen.
+
+-- Only given out to *some* people. Do not release to audience.
+
+# How to Open / Operate
+
+.hta is a executable file, but with a different code, a "hypertext" code, which allows the .hta to run like a steam game.
+To open the Spectator Application, just simply hit run.
